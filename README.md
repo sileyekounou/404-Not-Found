@@ -68,4 +68,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@ysileyekounou](https://github.com/sileyekounou)
+- GitHub [@sileyekounou](https://github.com/sileyekounou)
